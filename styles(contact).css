@@ -76,6 +76,7 @@ main
 {
     margin-top: 52px;
     padding: 1% 20%;
+    margin-bottom: 78px;
 }
 
 main *
@@ -146,6 +147,5 @@ footer
 {
     background-color: #212121;
     padding: 40px 70px;
-    position: absolute;
     bottom: 0;
 }
