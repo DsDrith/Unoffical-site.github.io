@@ -84,6 +84,11 @@ main *
     color: black;
 }
 
+main p
+{
+    color: #A9A9A9;
+}
+
 h3
 {
     margin-bottom: 50px;
